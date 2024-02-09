@@ -1,0 +1,6 @@
+Video Games Sales Dataset
+
+https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset
+https://www.kaggle.com/code/ahmedismaiil/video-games-rating
+https://www.kaggle.com/code/caesarmario/global-sales-prediction-using-r
+https://www.kaggle.com/code/andreshg/video-games-eda-and-visualization
